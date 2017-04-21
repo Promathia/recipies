@@ -1,0 +1,41 @@
+#products_list {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    list-style-type: none;
+    box-shadow: 0 0 20px rgba(76, 66, 54,0.5);
+    color: #564931;
+    opacity: 1.0;
+    font: bold 25px corbel;
+}
+
+#bin_list {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    list-style-type: none;
+    box-shadow: 0 0 20px rgba(76, 66, 54,0.5);
+    color: #564931;
+    opacity: 1.0;
+    font: bold 25px corbel;
+}
+
+#recipe_advised_div {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    list-style-type: none;
+    box-shadow: 0 0 20px rgba(76, 66, 54,0.5);
+    color: #564931;
+    opacity: 1.0;
+    font: bold 25px corbel;
+}
